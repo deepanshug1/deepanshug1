@@ -1,5 +1,5 @@
 ![logo](https://github.com/deepanshug1/deepanshug1/blob/main/1.png)
-<a href="https://deepanshug1.github.io/" target="blank">ME</a>
+<a href="https://deepanshug1.github.io/" target="blank" align="center">ME</a>
 <h1 align="center">Hi 👋, I'm Deepanshu Garg</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
